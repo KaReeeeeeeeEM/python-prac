@@ -9,3 +9,6 @@ This is a space for all the exercises that i have undergone in my Python learnin
 
 ## Variables
 - Get to know all the variable declaration rules and naming conventions as well as practices of how to deal with variables
+
+## Numbers
+- Getting a glimpse of how int, float and complex works in Python.
